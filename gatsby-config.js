@@ -18,9 +18,10 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Praagya Joshi',
-    description: 'Full stack product enginner',
-    keywords: 'full stack, product enginner, portfolio, personal website',
-    url: 'https://www.praagya.com'
-  }
+    title: 'Thibault Desbordes',
+    description: 'Software, fullstack enginner',
+    keywords: 'full stack, software enginner, portfolio, personal website',
+    url: 'http://tdesbordes.github.io/portfolio'
+  },
+  pathPrefix: `/portfolio`,
 };
