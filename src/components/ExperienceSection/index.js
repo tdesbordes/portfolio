@@ -15,7 +15,7 @@ class ExperienceSection extends React.Component {
             title='Sopra Banking Software'
             link='https://www.soprabanking.com/bienvenue'
             timeperiod='2015 - 2018'
-            subtitle='Learnt the ins and outs of sopftware development and
+            subtitle='Learnt the ins and outs of software development and
               built various features for banks.'
           />
         </div>
